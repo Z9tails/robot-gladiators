@@ -1,4 +1,3 @@
-window.alert("This is an alert! JavaScript is running!");
 /* GAME FUNCTIONS */
 
 // function to generate a random numeric value
